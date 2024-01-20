@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "women-books"
 version = "0.1.0"
-description = ""
+description = "Research work on representation of female book authors on WikiData."
 authors = ["Plaksa <plaksacarp@gmail.com>"]
 readme = "README.md"
 
